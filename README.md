@@ -2,5 +2,5 @@
 A basic HTML table
 
 Content:
-- images
+- images (resized using the attribute width)
 - links to websites
